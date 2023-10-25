@@ -68,3 +68,24 @@
 
 
 
+//MELE
+// let mele = [
+//     {varietà: "Melinda", peso: 150, diametro: 8},
+//     {varietà: "Golden", peso: 100, diametro: 9},
+//     {varietà: "Apple", peso: 110, diametro: 10},
+//     {varietà: "Delicius", peso: 130, diametro: 7},
+//     {varietà: "Melavera", peso: 90, diametro: 8},
+//     {varietà: "Mel", peso: 95, diametro: 9},
+//     {varietà: "Golden apple", peso: 150, diametro: 7},
+//     {varietà: "Mela007", peso: 145, diametro: 11},
+//     {varietà: "Veramel", peso: 133, diametro: 10},
+//     {varietà: "Melasol", peso: 104, diametro: 8},
+// ]
+
+// let sommaPeso = 0;
+
+// for(i=0; i<mele.length; i++){
+//     sommaPeso += mele[i].peso;
+// }
+
+// alert("Il peso delle mele è di " + sommaPeso + "gr");
